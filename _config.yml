@@ -1,0 +1,28 @@
+name: Landscape Specialists Ltd.
+favicon: null
+layout_spectrum: 0.22050475073046982
+typography_spectrum: 0.4767948314547539
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6092727894429117
+  lightness: 0.23660813248716295
+  saturation: 0.11580532090738416
+  rhythmicContrast: 0.9201684785075486
+purpose: []
