@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Landscape Specialists Ltd.]]></title>
         <description><![CDATA[Landscape Specialists Ltd.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/landscape-specialists-ltd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Jun 2016 18:16:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 23 Aug 2016 01:01:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/landscape-specialists-ltd/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>WELCOME</p>]]></description>
-            <link>undefinedwelcome/index.html</link>
+            <title><![CDATA[WELCOME]]></title>
+            <description><![CDATA[<article><h1>WELCOME</h1><p>Landscape Specialists Ltd. has been providing professional Landscaping services since 2008 throughout Edmonton and the surrounding areas with full landscaping services from final grading to full landscaping installation.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c544fb31-7f78-4f85-9f79-075c68f6944b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/landscape-specialists-ltd/welcome/index.html</link>
             <guid isPermaLink="false">77a595de-4744-48d6-86b5-7c6aabccfe2b</guid>
-            <pubDate>Sat, 25 Jun 2016 18:16:24 GMT</pubDate>
+            <pubDate>Tue, 23 Aug 2016 01:00:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
